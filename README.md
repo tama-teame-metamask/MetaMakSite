@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://tama-teame-metamask.github.io/MetaMakSite/">
-    <img src="assets\img\MetaMask_Fox.svg.png" alt="Logo" width="80" height="80">
+    <img src="assets\images\MetaMask_Fox.svg.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">MetaMakSite</h3>
@@ -22,7 +22,7 @@
 
 ## About The Project
 
-<img src="assets\img\Untitled.png" alt="about">
+<img src="assets\images\Untitled.png" alt="about">
 
 Hints :
 
