@@ -4,7 +4,7 @@
     <img src="assets\images\MetaMask_Fox.svg.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">MetaMakSite</h3>
+  <h3 align="center">MetaMaskSite</h3>
 
   <p align="center">
     You can get more information from my personal website
