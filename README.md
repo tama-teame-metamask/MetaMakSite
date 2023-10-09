@@ -10,7 +10,7 @@
     You can get more information from my personal website
     <br/>
     <br/>
-    <a href="https://tama-teame-metamask.github.io/MetaMakSite//">View Demo</a>
+    <a href="https://tama-teame-metamask.github.io/MetaMakSite/">View Demo</a>
     .
     <a href="https://tama-teame-metamask.github.io/MetaMakSite/issues">Report Bug</a>
     .
