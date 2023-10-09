@@ -7,7 +7,7 @@
   --shadow-: 0 0 15px rgba(0, 0, 0, 0.2);
   --hover-color: #037dd6;
   --arshia: #24292E;
-  --arshia2: #F7F9FB;
+  --arshia2: #757779;
   --arshia3: #6A737D;
 }
 
@@ -21,7 +21,7 @@ body {
   --bg-color-mood: var(--bg-color-dark-mood);
   --shadow-: var(--shadow-dark);
   --hover-color: var(--text-color-dark-mood);
-  --arshia2: (var(--arshia3)) ;
+  --arshia3: (var(--arshia2)) ;
 }
 
 #main {
@@ -39,7 +39,7 @@ body {
 
 .section2 {
   padding: 0 230px !important;
-  background-color: var(--arshia) !important;
+  background-color: var(--bg-color-mood);
 }
 
 .section3 {
