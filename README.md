@@ -26,7 +26,7 @@
 
 Hints :
 
-build with Html , css & vanila js
+build with Html , css , bootstrap & vanila js
 It has been tried to clean the code
- happy me with star and follow in linkedin , enjoy coding :)
+happy we with star and follow in linkedin , enjoy coding :)
 
